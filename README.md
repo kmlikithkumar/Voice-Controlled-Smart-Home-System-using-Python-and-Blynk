@@ -2,7 +2,7 @@
 
 > A real-time, voice-activated smart home automation system built on **ESP32** + **Blynk IoT** + **Python Speech Recognition**. Control lights, monitor motion, and read live sensor data — all hands-free.
 ![alt text](image.png)
-![alt text](image-1.png)
+
 ---
 
 ## 📋 Table of Contents
